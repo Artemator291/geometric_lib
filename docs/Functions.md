@@ -84,4 +84,5 @@ res = perimeter(2, 3.2, 4.5)
 print(res) #Output: 9.7
 ```
 [Основная информация](Basic_information.md)\
-[История проекта](Commits.md)
+[История проекта](Commits.md)\
+[Тесты](Tests.md)

@@ -9,4 +9,5 @@
 Текст: Added a new file tiangle.py and fixed error in file rectangle.py 
 
 [Основная информация](Basic_information.md)\
-[Все функции с примером работы](Functions.md)
+[Все функции с примером работы](Functions.md)\
+[Тесты](Tests.md)
